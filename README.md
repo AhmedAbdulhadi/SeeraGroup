@@ -18,4 +18,5 @@ Reports are located under the followin path /target/cucmber-html-reports
 - Junit
 - Log4j
 
-
+## Logs
+Logs are founded under the pth /logging.txt
